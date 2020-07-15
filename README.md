@@ -1,13 +1,13 @@
 ### Hello! 👋
-안녕하세요 쿠킴입니다.
+쿠킴입니다.
 
 ### Interest 🔍
-- MIDI Sound 🎹
-- Data Analytics 📊
-- Data Engineering 🔧
-	- Data Pipeline 🏭
-	- AutoML 🤖
-	- Scalable AI Computing 🖥
+MIDI Sound 🎹
+Data Analytics 📊
+Data Engineering 🔧
+	Data Pipeline 🏭
+	AutoML 🤖
+	Scalable AI Computing 🖥
 
 <div align=center>
 	
