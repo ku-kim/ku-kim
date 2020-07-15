@@ -5,9 +5,9 @@
 MIDI Sound 🎹  
 Data Analytics 📊   
 Data Engineering 🔧  
-	Data Pipeline 🏭  
-	AutoML 🤖  
-	Scalable AI Computing 🖥   
+- Data Pipeline 🏭  
+- AutoML 🤖  
+- Scalable AI Computing 🖥   
 
 <div align=center>
 	
