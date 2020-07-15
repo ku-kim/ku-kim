@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋Hello!
+안녕하세요 쿠킴입니다.
+
+### 🔍Interest 
+- 🎹MIDI Sound 
+- 📊Data Analytics
+- 🏭Data Pipeline
+- 🤖AutoML
+- 🖥Scalable AI Computing
 
 <div align=center>
 	
