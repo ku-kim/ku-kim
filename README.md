@@ -2,12 +2,12 @@
 쿠킴입니다.
 
 ### Interest 🔍
-MIDI Sound 🎹
-Data Analytics 📊
-Data Engineering 🔧
-	Data Pipeline 🏭
-	AutoML 🤖
-	Scalable AI Computing 🖥
+MIDI Sound 🎹  
+Data Analytics 📊   
+Data Engineering 🔧  
+	Data Pipeline 🏭  
+	AutoML 🤖  
+	Scalable AI Computing 🖥   
 
 <div align=center>
 	
