@@ -1,13 +1,15 @@
 ### Hello! 👋
-쿠킴입니다.
+안녕하세요 쿠킴입니다. 
+통계 학사를 전공하고 백엔드, 데이터 엔지니어를 꿈꾸고 있습니다.
+현재 42seoul에서 공부하고 있습니다.!
 
 ### Interest 🔍
-MIDI Sound 🎹  
+Backend ⚙️
+Data Engineering 🔧   
+Data Pipeline 🏭   
+AutoML 🤖  
+Scalable AI Computing 🖥   
 Data Analytics 📊   
-Data Engineering 🔧  
-- Data Pipeline 🏭  
-- AutoML 🤖  
-- Scalable AI Computing 🖥   
 
 <div align=center>
 	
