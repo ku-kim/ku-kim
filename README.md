@@ -3,7 +3,7 @@
 통계 학사를 전공하고 백엔드, 데이터 엔지니어를 꿈꾸고 있습니다.  
 
 ### Interest 🔍
-Backend ⚙️
+Backend ⚙️  
 Data Engineering 🔧   
 Data Pipeline 🏭   
 AutoML 🤖  
