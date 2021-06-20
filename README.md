@@ -1,6 +1,7 @@
 ### Hello! 👋
 안녕하세요 쿠킴입니다.   
-
+통계 학사를 전공하고 “보이지 않는 서버”의 매력에 빠져 개발 역량을 키우고 있습니다.  
+배우고 나누길 좋아합니다.  
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkunheeya%2Fkunheeya)](https://hits.seeyoufarm.com)
