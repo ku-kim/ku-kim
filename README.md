@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%231DACD6&center=true&vCenter=true&multiline=true&width=500&height=60&lines=write(1%2C+%22Hello+World!%5Cn%22%2C+13))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%231DACD6&size=23&multiline=true&lines=write(1%2C+%22Hello+World!%5Cn%22%2C+13))](https://git.io/typing-svg)
 
 안녕하세요 쿠킴입니다.   
 통계 학사를 전공하고 “보이지 않는 서버”의 매력에 빠져 개발 역량을 키우고 있습니다.  
