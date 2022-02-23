@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%231DACD6&size=23&multiline=true&lines=write(1%2C+%22Hello+World!%5Cn%22%2C+13))](https://git.io/typing-svg)
 
 “보이지 않는 서버”의 매력에 빠져 개발 역량을 키우고 있습니다.  
-배우고 나누길 좋아합니다.  
+배우고 나누길 좋아합니다. 취미로 요리를 합니다.  
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkunheeya%2Fkunheeya)](https://hits.seeyoufarm.com)
