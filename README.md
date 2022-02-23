@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%231DACD6&size=23&multiline=true&lines=write(1%2C+%22Hello+World!%5Cn%22%2C+13))](https://git.io/typing-svg)
 
-통계 학사를 전공하고 “보이지 않는 서버”의 매력에 빠져 개발 역량을 키우고 있습니다.  
+“보이지 않는 서버”의 매력에 빠져 개발 역량을 키우고 있습니다.  
 배우고 나누길 좋아합니다.  
 <div align=center>
 	
