@@ -4,9 +4,8 @@
 배우고 나누길 좋아합니다. 취미로 요리를 합니다.  
 <div align=center>
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkunheeya%2Fkunheeya)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kukim.tistory.com/)](https://kukim.tistory.com/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunheeya@gmail.com)](mailto:kunheeya@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kukim.dev@gmail.com)](mailto:kukim.dev@gmail.com)
 </div>
 
 <!--
